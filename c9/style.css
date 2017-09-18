@@ -18,7 +18,7 @@
     bottom: 60px;
     right: 106px;
     width: 150px;
-    border: 5px solid #fff;
+    border: 8px solid #fff;
     z-index: 3;
 }
 .bar.pos2 {
@@ -81,14 +81,14 @@
 }
 .seperator.pos3 {
     transform: rotate(119deg);
-    top: 152px;
-    left: 170px;
+    top: 155px;
+    left: 161px;
     height: 20px;
-    width: 70px;
+    width: 85px;
 }
 .borderCircle {
     background: #fff;
-    border: 45px solid #fff;
+    border: 50px solid #fff;
     z-index: 1;
     position: absolute;
     height: 80px;
@@ -97,15 +97,15 @@
 }
 .borderCircle.pos1 {
     margin: auto;
-    top: 25px;
+    top: 20px;
     left: 0;
     right: 0;
 }
 .borderCircle.pos2 {
-    bottom: -4px;
-    left: -5px;
+    bottom: -9px;
+    left: -9px;
 }
 .borderCircle.pos3 {
-    bottom: -4px;
-    right: -5px;
+    bottom: -9px;
+    right: -9px;
 }
